@@ -1,0 +1,13 @@
+site_name: TzDB
+
+theme:
+  name: simple-blog
+  theme_style: dark
+
+  components:
+    site_name: true
+    title: false
+    menu: true
+    preview: true
+    footer: true
+    
